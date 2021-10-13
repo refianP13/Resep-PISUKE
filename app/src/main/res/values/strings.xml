@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">resepgorpis</string>
+    <string name="instruksi">
+        1. Kupas dan belah pisang menjadi dua bagian.\n\n
+        2. Dalam wadah, campurkan terigu, sedikit mentega, garam dan air. Aduk sampai kental (jangan terlalu cair).\n\n
+        3. Lalu celupkan pisang ke dalam adonan terigu, kemudian baluri dengan tepung roti.\n\n
+        4. Selanjutnya goreng pisang dengan menggunakan api sedang sampai pisang matang, angkat dan tiriskan sebentar.\n\n
+        5. Kemudian berikan SKM dan taburi dengan parutan DCC serta keju.\n\n
+        6. Pisuke siap disantap.\n\n
+    </string>
+</resources>
